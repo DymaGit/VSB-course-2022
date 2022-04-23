@@ -1,0 +1,24 @@
+C:\Users\programator\Dymal\Csharp_OOP_cv\Prvni\bin\Debug\Prvni.exe.config
+C:\Users\programator\Dymal\Csharp_OOP_cv\Prvni\bin\Debug\Prvni.exe
+C:\Users\programator\Dymal\Csharp_OOP_cv\Prvni\bin\Debug\Prvni.pdb
+C:\Users\programator\Dymal\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.csproj.AssemblyReference.cache
+C:\Users\programator\Dymal\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Dymal\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.csproj.CoreCompileInputs.cache
+C:\Users\programator\Dymal\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.exe
+C:\Users\programator\Dymal\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.pdb
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Prvni\bin\Debug\Prvni.exe.config
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Prvni\bin\Debug\Prvni.exe
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Prvni\bin\Debug\Prvni.pdb
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.csproj.AssemblyReference.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.csproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.csproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.exe
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.pdb
+C:\Users\programator\Desktop\Csharp_OOP_cv\Prvni\bin\Debug\Prvni.exe.config
+C:\Users\programator\Desktop\Csharp_OOP_cv\Prvni\bin\Debug\Prvni.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Prvni\bin\Debug\Prvni.pdb
+C:\Users\programator\Desktop\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Prvni\obj\Debug\Prvni.pdb

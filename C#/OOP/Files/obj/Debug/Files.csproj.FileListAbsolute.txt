@@ -1,0 +1,8 @@
+C:\Users\programator\Desktop\Csharp_OOP_cv\Files\bin\Debug\Files.exe.config
+C:\Users\programator\Desktop\Csharp_OOP_cv\Files\bin\Debug\Files.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Files\bin\Debug\Files.pdb
+C:\Users\programator\Desktop\Csharp_OOP_cv\Files\obj\Debug\Files.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Files\obj\Debug\Files.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Files\obj\Debug\Files.pdb
+C:\Users\programator\Desktop\Csharp_OOP_cv\Files\obj\Debug\Files.csproj.AssemblyReference.cache

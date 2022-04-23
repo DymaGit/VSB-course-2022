@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4fc693a9-84a8-4968-bcd4-4aad6a53567c": {
+      "ProjectGuid": "4fc693a9-84a8-4968-bcd4-4aad6a53567c",
+      "DisplayName": "Prvni",
+      "ColorIndex": 0
+    },
+    "ac5e156c-dbb1-4ead-a7ba-2b919c2a0a7c": {
+      "ProjectGuid": "ac5e156c-dbb1-4ead-a7ba-2b919c2a0a7c",
+      "DisplayName": "Rozhrani",
+      "ColorIndex": 1
+    },
+    "6bbc5919-28ce-4fc2-91cb-b36cb5050144": {
+      "ProjectGuid": "6bbc5919-28ce-4fc2-91cb-b36cb5050144",
+      "DisplayName": "Exercises on Classes",
+      "ColorIndex": 2
+    },
+    "97c0fc28-6e2c-46de-a750-d1ea60a3a787": {
+      "ProjectGuid": "97c0fc28-6e2c-46de-a750-d1ea60a3a787",
+      "DisplayName": "Account",
+      "ColorIndex": 3
+    },
+    "a758c35b-2120-4efd-bafd-44063968e2b6": {
+      "ProjectGuid": "a758c35b-2120-4efd-bafd-44063968e2b6",
+      "DisplayName": "Computer",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "00b499d9-acd7-400f-8c5c-b5ad0ff7d127": {
+      "ProjectGuid": "00b499d9-acd7-400f-8c5c-b5ad0ff7d127",
+      "DisplayName": "Point",
+      "ColorIndex": 5
+    },
+    "dfe7e128-e1c8-479c-81cb-82f5405116c9": {
+      "ProjectGuid": "dfe7e128-e1c8-479c-81cb-82f5405116c9",
+      "DisplayName": "Files",
+      "ColorIndex": 6
+    },
+    "a7b30ec5-5acb-4d3d-bde5-e7170d5d5ef9": {
+      "ProjectGuid": "a7b30ec5-5acb-4d3d-bde5-e7170d5d5ef9",
+      "DisplayName": "Test",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

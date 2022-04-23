@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b69b3f0-6608-47e2-adec-c2a25a8f18a7": {
+      "ProjectGuid": "2b69b3f0-6608-47e2-adec-c2a25a8f18a7",
+      "DisplayName": "A-ez",
+      "ColorIndex": 0
+    },
+    "6cf62d32-45de-48a9-a31a-15037155639e": {
+      "ProjectGuid": "6cf62d32-45de-48a9-a31a-15037155639e",
+      "DisplayName": "B",
+      "ColorIndex": 1
+    },
+    "4738d03c-ee18-4400-8fdc-8977300e8efb": {
+      "ProjectGuid": "4738d03c-ee18-4400-8fdc-8977300e8efb",
+      "DisplayName": "C",
+      "ColorIndex": 2
+    },
+    "09c968d8-d932-4482-9d35-39966a78e893": {
+      "ProjectGuid": "09c968d8-d932-4482-9d35-39966a78e893",
+      "DisplayName": "D",
+      "ColorIndex": 3
+    },
+    "e5ad691b-5b7e-46e5-a69b-1bab4d7b12cd": {
+      "ProjectGuid": "e5ad691b-5b7e-46e5-a69b-1bab4d7b12cd",
+      "DisplayName": "E",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b2c10a8d-3d7e-4a27-b3b9-d286f64fd571": {
+      "ProjectGuid": "b2c10a8d-3d7e-4a27-b3b9-d286f64fd571",
+      "DisplayName": "F1",
+      "ColorIndex": 5
+    },
+    "9d2f49cb-727c-4647-8af1-5b3a56599110": {
+      "ProjectGuid": "9d2f49cb-727c-4647-8af1-5b3a56599110",
+      "DisplayName": "F2",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

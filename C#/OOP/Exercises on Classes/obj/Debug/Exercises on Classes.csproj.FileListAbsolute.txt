@@ -1,0 +1,16 @@
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Exercises on Classes\bin\Debug\Exercises on Classes.exe.config
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Exercises on Classes\bin\Debug\Exercises on Classes.exe
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Exercises on Classes\bin\Debug\Exercises on Classes.pdb
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.csproj.AssemblyReference.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.csproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.csproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.exe
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.pdb
+C:\Users\programator\Desktop\Csharp_OOP_cv\Exercises on Classes\bin\Debug\Exercises on Classes.exe.config
+C:\Users\programator\Desktop\Csharp_OOP_cv\Exercises on Classes\bin\Debug\Exercises on Classes.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Exercises on Classes\bin\Debug\Exercises on Classes.pdb
+C:\Users\programator\Desktop\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Exercises on Classes\obj\Debug\Exercises on Classes.pdb

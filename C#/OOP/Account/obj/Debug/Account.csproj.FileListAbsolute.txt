@@ -1,0 +1,16 @@
+C:\Users\programator\Desktop\Csharp_OOP_cv\Account\bin\Debug\Account.exe.config
+C:\Users\programator\Desktop\Csharp_OOP_cv\Account\bin\Debug\Account.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Account\bin\Debug\Account.pdb
+C:\Users\programator\Desktop\Csharp_OOP_cv\Account\obj\Debug\Account.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Account\obj\Debug\Account.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Account\obj\Debug\Account.pdb
+C:\Users\programator\Desktop\Csharp_OOP_cv\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Account\bin\Debug\Account.exe.config
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Account\bin\Debug\Account.exe
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Account\bin\Debug\Account.pdb
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Account\obj\Debug\Account.csproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Account\obj\Debug\Account.exe
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Account\obj\Debug\Account.pdb

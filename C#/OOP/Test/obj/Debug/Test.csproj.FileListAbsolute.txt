@@ -1,0 +1,16 @@
+C:\Users\programator\Desktop\Csharp_OOP_cv\Test\bin\Debug\Test.exe.config
+C:\Users\programator\Desktop\Csharp_OOP_cv\Test\bin\Debug\Test.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Test\bin\Debug\Test.pdb
+C:\Users\programator\Desktop\Csharp_OOP_cv\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_cv\Test\obj\Debug\Test.exe
+C:\Users\programator\Desktop\Csharp_OOP_cv\Test\obj\Debug\Test.pdb
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Test\bin\Debug\Test.exe.config
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Test\bin\Debug\Test.exe
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Test\bin\Debug\Test.pdb
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Test\obj\Debug\Test.exe
+D:\4 Skládka\Programování VB\Csharp_OOP_cv\Test\obj\Debug\Test.pdb
