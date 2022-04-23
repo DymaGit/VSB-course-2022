@@ -1,0 +1,30 @@
+D:\4 Skládka\Programování VB\VB_cv\DU\bin\Debug\DU.exe.config
+D:\4 Skládka\Programování VB\VB_cv\DU\bin\Debug\DU.exe
+D:\4 Skládka\Programování VB\VB_cv\DU\bin\Debug\DU.pdb
+D:\4 Skládka\Programování VB\VB_cv\DU\bin\Debug\DU.xml
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.vbproj.AssemblyReference.cache
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.vbproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.Resources.resources
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.vbproj.GenerateResource.cache
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.vbproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.exe
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.xml
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.pdb
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.Formular1.resources
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\Interop.Scripting.dll
+D:\4 Skládka\Programování VB\VB_cv\DU\obj\Debug\DU.vbproj.ResolveComReference.cache
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\bin\Debug\DU.exe.config
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\bin\Debug\DU.exe
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\bin\Debug\DU.pdb
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\bin\Debug\DU.xml
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.vbproj.AssemblyReference.cache
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.vbproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\Interop.Scripting.dll
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.vbproj.ResolveComReference.cache
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.Formular1.resources
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.Resources.resources
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.vbproj.GenerateResource.cache
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.vbproj.CoreCompileInputs.cache
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.exe
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.xml
+D:\4 Skládka\GitHub\VSB-course-2022\Visual Basic\VB - Forms\cviceni 2\obj\Debug\DU.pdb

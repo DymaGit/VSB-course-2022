@@ -1,0 +1,13 @@
+D:\4 Skládka\Programování VB\VB_cv\DU2\bin\Debug\DU2.exe.config
+D:\4 Skládka\Programování VB\VB_cv\DU2\bin\Debug\DU2.exe
+D:\4 Skládka\Programování VB\VB_cv\DU2\bin\Debug\DU2.pdb
+D:\4 Skládka\Programování VB\VB_cv\DU2\bin\Debug\DU2.xml
+D:\4 Skládka\Programování VB\VB_cv\DU2\obj\Debug\DU2.vbproj.AssemblyReference.cache
+D:\4 Skládka\Programování VB\VB_cv\DU2\obj\Debug\DU2.vbproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\VB_cv\DU2\obj\Debug\DU2.Resources.resources
+D:\4 Skládka\Programování VB\VB_cv\DU2\obj\Debug\DU2.vbproj.GenerateResource.cache
+D:\4 Skládka\Programování VB\VB_cv\DU2\obj\Debug\DU2.vbproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\VB_cv\DU2\obj\Debug\DU2.exe
+D:\4 Skládka\Programování VB\VB_cv\DU2\obj\Debug\DU2.xml
+D:\4 Skládka\Programování VB\VB_cv\DU2\obj\Debug\DU2.pdb
+D:\4 Skládka\Programování VB\VB_cv\DU2\obj\Debug\DU2.Form1.resources

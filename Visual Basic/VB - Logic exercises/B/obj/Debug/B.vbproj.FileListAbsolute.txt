@@ -1,0 +1,12 @@
+D:\4 Skládka\Programování VB\VB_cv\B\bin\Debug\B.exe.config
+D:\4 Skládka\Programování VB\VB_cv\B\bin\Debug\B.exe
+D:\4 Skládka\Programování VB\VB_cv\B\bin\Debug\B.pdb
+D:\4 Skládka\Programování VB\VB_cv\B\bin\Debug\B.xml
+D:\4 Skládka\Programování VB\VB_cv\B\obj\Debug\B.vbproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\VB_cv\B\obj\Debug\B.Resources.resources
+D:\4 Skládka\Programování VB\VB_cv\B\obj\Debug\B.vbproj.GenerateResource.cache
+D:\4 Skládka\Programování VB\VB_cv\B\obj\Debug\B.vbproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\VB_cv\B\obj\Debug\B.exe
+D:\4 Skládka\Programování VB\VB_cv\B\obj\Debug\B.xml
+D:\4 Skládka\Programování VB\VB_cv\B\obj\Debug\B.pdb
+D:\4 Skládka\Programování VB\VB_cv\B\obj\Debug\B.vbproj.AssemblyReference.cache

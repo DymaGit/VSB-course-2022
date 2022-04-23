@@ -1,0 +1,13 @@
+D:\4 Skládka\Programování VB\VB_cv\cviceni\bin\Debug\cviceni.exe.config
+D:\4 Skládka\Programování VB\VB_cv\cviceni\bin\Debug\cviceni.exe
+D:\4 Skládka\Programování VB\VB_cv\cviceni\bin\Debug\cviceni.pdb
+D:\4 Skládka\Programování VB\VB_cv\cviceni\bin\Debug\cviceni.xml
+D:\4 Skládka\Programování VB\VB_cv\cviceni\obj\Debug\cviceni.vbproj.AssemblyReference.cache
+D:\4 Skládka\Programování VB\VB_cv\cviceni\obj\Debug\cviceni.vbproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\VB_cv\cviceni\obj\Debug\cviceni.frHlavni.resources
+D:\4 Skládka\Programování VB\VB_cv\cviceni\obj\Debug\cviceni.Resources.resources
+D:\4 Skládka\Programování VB\VB_cv\cviceni\obj\Debug\cviceni.vbproj.GenerateResource.cache
+D:\4 Skládka\Programování VB\VB_cv\cviceni\obj\Debug\cviceni.vbproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\VB_cv\cviceni\obj\Debug\cviceni.exe
+D:\4 Skládka\Programování VB\VB_cv\cviceni\obj\Debug\cviceni.xml
+D:\4 Skládka\Programování VB\VB_cv\cviceni\obj\Debug\cviceni.pdb
