@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcc10f31-efe0-4bb8-8287-6f07b4535d6f": {
+      "ProjectGuid": "fcc10f31-efe0-4bb8-8287-6f07b4535d6f",
+      "DisplayName": "TestedClasses",
+      "ColorIndex": 0
+    },
+    "6038501e-2b51-4621-b0a1-c414ec5af2f5": {
+      "ProjectGuid": "6038501e-2b51-4621-b0a1-c414ec5af2f5",
+      "DisplayName": "UnitTest1",
+      "ColorIndex": 1
+    },
+    "f62064cf-2eca-48bd-8c77-8c6489519efe": {
+      "ProjectGuid": "f62064cf-2eca-48bd-8c77-8c6489519efe",
+      "DisplayName": "Selenium",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

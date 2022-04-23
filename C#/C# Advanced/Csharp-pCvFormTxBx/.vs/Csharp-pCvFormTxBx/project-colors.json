@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95495f9f-66dc-467b-b93b-1c623d9fa454": {
+      "ProjectGuid": "95495f9f-66dc-467b-b93b-1c623d9fa454",
+      "DisplayName": "GUI",
+      "ColorIndex": 0
+    },
+    "5a390e00-cb08-4731-a3ed-cb0d040e2781": {
+      "ProjectGuid": "5a390e00-cb08-4731-a3ed-cb0d040e2781",
+      "DisplayName": "MyApp",
+      "ColorIndex": 1
+    },
+    "8bf58856-af10-4126-94bd-7940f3dfb261": {
+      "ProjectGuid": "8bf58856-af10-4126-94bd-7940f3dfb261",
+      "DisplayName": "MyLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

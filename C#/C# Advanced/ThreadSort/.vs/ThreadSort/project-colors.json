@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4563e63-11a8-4ea4-bc5c-8f8cad126772": {
+      "ProjectGuid": "b4563e63-11a8-4ea4-bc5c-8f8cad126772",
+      "DisplayName": "ThreadSort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

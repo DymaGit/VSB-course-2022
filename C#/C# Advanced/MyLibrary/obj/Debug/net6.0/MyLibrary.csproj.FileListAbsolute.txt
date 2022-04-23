@@ -1,0 +1,12 @@
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\bin\Debug\net6.0\MyLibrary.deps.json
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\bin\Debug\net6.0\MyLibrary.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\bin\Debug\net6.0\ref\MyLibrary.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\bin\Debug\net6.0\MyLibrary.pdb
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\obj\Debug\net6.0\MyLibrary.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\obj\Debug\net6.0\ref\MyLibrary.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\MyLibrary\obj\Debug\net6.0\MyLibrary.pdb

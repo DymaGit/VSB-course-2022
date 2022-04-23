@@ -1,0 +1,14 @@
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\Csharp-pCvFormTxBx.deps.json
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\Csharp-pCvFormTxBx.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\ref\Csharp-pCvFormTxBx.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\Csharp-pCvFormTxBx.pdb
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\Csharp-pCvFormTxBx.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\FormTextBox.Form6.resources
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\Csharp-pCvFormTxBx.csproj.GenerateResource.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\Csharp-pCvFormTxBx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\Csharp-pCvFormTxBx.AssemblyInfoInputs.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\Csharp-pCvFormTxBx.AssemblyInfo.cs
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\Csharp-pCvFormTxBx.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\Csharp-pCvFormTxBx.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\ref\Csharp-pCvFormTxBx.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\Csharp-pCvFormTxBx.pdb

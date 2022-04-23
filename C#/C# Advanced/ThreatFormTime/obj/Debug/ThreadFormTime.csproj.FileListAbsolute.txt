@@ -1,0 +1,36 @@
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\bin\Debug\ThreatFormTime.exe.config
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\bin\Debug\ThreatFormTime.exe
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\bin\Debug\ThreatFormTime.pdb
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.AssemblyReference.cache
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.Properties.Resources.resources
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.GenerateResource.cache
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.exe
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.pdb
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.ControlPanel.resources
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\bin\Debug\ThreatFormTime.exe.config
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\bin\Debug\ThreatFormTime.exe
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\bin\Debug\ThreatFormTime.pdb
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.ControlPanel.resources
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.Properties.Resources.resources
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.GenerateResource.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.exe
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.pdb
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.ControlPanel2.resources
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.ControlPanel2.resources
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\bin\Debug\ThreatFormTime.exe.config
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\bin\Debug\ThreatFormTime.exe
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\bin\Debug\ThreatFormTime.pdb
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.ControlPanel2.resources
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.ControlPanel.resources
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.Properties.Resources.resources
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.GenerateResource.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreadFormTime.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.exe
+C:\Users\programator\Desktop\Csharp_OOP_advanced\ThreatFormTime\obj\Debug\ThreatFormTime.pdb

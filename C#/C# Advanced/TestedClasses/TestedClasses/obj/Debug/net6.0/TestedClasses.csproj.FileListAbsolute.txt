@@ -1,0 +1,12 @@
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\bin\Debug\net6.0\TestedClasses.deps.json
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\bin\Debug\net6.0\TestedClasses.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\bin\Debug\net6.0\ref\TestedClasses.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\bin\Debug\net6.0\TestedClasses.pdb
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\obj\Debug\net6.0\TestedClasses.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\obj\Debug\net6.0\TestedClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\obj\Debug\net6.0\TestedClasses.AssemblyInfoInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\obj\Debug\net6.0\TestedClasses.AssemblyInfo.cs
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\obj\Debug\net6.0\TestedClasses.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\obj\Debug\net6.0\TestedClasses.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\obj\Debug\net6.0\ref\TestedClasses.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\TestedClasses\TestedClasses\obj\Debug\net6.0\TestedClasses.pdb

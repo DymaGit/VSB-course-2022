@@ -1,0 +1,13 @@
+<klient>                           //configInner.xml
+   	<!-- nastaveni serveru -->
+   	<server>    
+   	   	<ip>127.0.0.1</ip>  
+        	<port>1234</port>  
+  </server>  
+   	
+   	<!-- nastaveni uzivatele -->
+   	<uzivatel>
+         	<name>Agent W4C</name>
+         	<pass>abraka dabra</pass>
+   	</uzivatel>
+</klient>

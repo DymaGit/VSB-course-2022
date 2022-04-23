@@ -1,0 +1,6 @@
+<klient>                          
+   	<!-- nastaveni serveru -->
+  	   <server ip= "127.0.0.1" port ="1234" />  
+   	<!-- nastaveni uzivatele -->
+   	<uzivatel name= "Agent W4C" pass = "abraka dabra" />
+</klient>

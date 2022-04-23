@@ -1,0 +1,3 @@
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\4 Skládka\Programování VB\Kurz progress\Csharp_OOP_advanced\Server\obj\Debug\Server.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\FormTextBox.Form6.resources
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\MyLibrary.dll
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\bin\Debug\net6.0-windows\MyLibrary.pdb
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Kurz progress\Csharp_OOP_advanced\Csharp-pCvFormTxBx\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete

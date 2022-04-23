@@ -1,0 +1,8 @@
+C:\Users\programator\Desktop\Csharp_OOP_advanced\Delegaty\bin\Debug\Delegaty.exe.config
+C:\Users\programator\Desktop\Csharp_OOP_advanced\Delegaty\bin\Debug\Delegaty.exe
+C:\Users\programator\Desktop\Csharp_OOP_advanced\Delegaty\bin\Debug\Delegaty.pdb
+C:\Users\programator\Desktop\Csharp_OOP_advanced\Delegaty\obj\Debug\Delegaty.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\Delegaty\obj\Debug\Delegaty.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\Delegaty\obj\Debug\Delegaty.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\Delegaty\obj\Debug\Delegaty.exe
+C:\Users\programator\Desktop\Csharp_OOP_advanced\Delegaty\obj\Debug\Delegaty.pdb

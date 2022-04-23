@@ -1,0 +1,34 @@
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\LING UI.exe.config
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\LING UI.exe
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\LING UI.pdb
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\obj\Debug\LING UI.csproj.AssemblyReference.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\obj\Debug\LING UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\obj\Debug\LING_UI.Form1.resources
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\obj\Debug\LING_UI.Properties.Resources.resources
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\obj\Debug\LING UI.csproj.GenerateResource.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\obj\Debug\LING UI.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\obj\Debug\LING UI.exe
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\obj\Debug\LING UI.pdb
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\LING.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Buffers.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Memory.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Text.Json.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.ValueTuple.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\LING.pdb
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\LING.dll.config
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Buffers.xml
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Memory.xml
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Text.Json.xml
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\System.ValueTuple.xml
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\obj\Debug\LING UI.csproj.CopyComplete
+C:\Users\programator\Desktop\Csharp_OOP_advanced\LING UI\bin\Debug\people.json

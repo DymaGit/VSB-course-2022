@@ -1,0 +1,6 @@
+C:\Users\programator\Desktop\Csharp_OOP_advanced\KlientServerAuthInterf\SrvInterface\obj\Debug\SrvInterface.csproj.CoreCompileInputs.cache
+C:\Users\programator\Desktop\Csharp_OOP_advanced\KlientServerAuthInterf\SrvInterface\bin\Debug\SrvInterface.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\KlientServerAuthInterf\SrvInterface\bin\Debug\SrvInterface.pdb
+C:\Users\programator\Desktop\Csharp_OOP_advanced\KlientServerAuthInterf\SrvInterface\obj\Debug\SrvInterface.dll
+C:\Users\programator\Desktop\Csharp_OOP_advanced\KlientServerAuthInterf\SrvInterface\obj\Debug\SrvInterface.pdb
+C:\Users\programator\Desktop\Csharp_OOP_advanced\KlientServerAuthInterf\SrvInterface\obj\Debug\SrvInterface.csproj.AssemblyReference.cache
