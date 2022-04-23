@@ -1,0 +1,15 @@
+package cz.vsb.signum;
+
+public class Pole {
+	public double getMin(double[] input) {
+		
+		double min = input[0];
+		for (int i = 0; i <= input.length; i++)
+			if (min > input[i])
+				min = input[i];
+
+		return min;
+
+	}
+
+}

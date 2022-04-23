@@ -1,0 +1,7 @@
+	@Test
+	void testZnamenkoIntKladne() {
+		Signum sg1 = new Signum();
+		int actual = (sg1.znamenko(5));
+		assertEquals(1, actual);
+		
+	}

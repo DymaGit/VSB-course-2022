@@ -1,0 +1,24 @@
+package cz.vsb.signum;
+
+public class Kalkulacka {
+
+	public double secti(double a, double b) {
+		return 0;
+	}
+
+	public double odecti(double a, double b) {
+		return 0;
+	}
+
+	public double del(double a, double b) {
+		return 0;
+	}
+
+	public double nasob(double a, double b) {
+		return 0;
+	}
+
+	public int sectiOdDo(int odCisla, int doCisla) {
+		return 0;
+	}
+}

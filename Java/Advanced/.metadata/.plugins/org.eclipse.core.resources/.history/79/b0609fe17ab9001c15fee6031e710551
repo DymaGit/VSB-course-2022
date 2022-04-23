@@ -1,0 +1,21 @@
+package cz.vsb.austra.controller;
+
+import javax.websocket.server.PathParam;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class WeatherController {
+
+	@RequestMapping("/weather")
+	public String getWeather() {
+		return "Počasí všechny města";
+	}
+
+	@RequestMapping("/weather/{city}")
+	public String getWeatherForCity(@PathVariable String city) {
+		return "Počasí jedno město: " + city;
+	}
+}

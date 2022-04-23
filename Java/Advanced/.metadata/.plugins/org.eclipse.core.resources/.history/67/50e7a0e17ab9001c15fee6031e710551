@@ -1,0 +1,37 @@
+package cz.vsb.austra.connector;
+
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.security.KeyStore.PrivateKeyEntry;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.client.RestTemplate;
+
+public class WeatherStackConnector {
+	// http://api.weatherstack.com/current?access_key=054b12500b828088e2269ce0725b10c9&query=New%20York
+	private static String baseURL = "http://api.weatherstack.com/";
+	private static String urlParamString = "current?access_key=";
+	private static String APIkey = "054b12500b828088e2269ce0725b10c9";
+	private static String urlString = baseURL + urlParamString + APIkey + "&query=";
+
+	public String getWeatherForCity(String city) {
+		RestTemplate RestTemplate = new RestTemplate();
+
+		URI uri = null;
+		try {
+			uri = new URI(baseURL + city);
+			
+		} catch (URISyntaxException e) {
+			e.printStackTrace();
+		}
+		
+		//RestTemplate.getForEntity(uri, String.class);
+		
+		
+		ResponseEntity<String>response = RestTemplate.getForEntity(uri,String.class);
+		return response.getBody();
+		
+		
+	}
+
+}

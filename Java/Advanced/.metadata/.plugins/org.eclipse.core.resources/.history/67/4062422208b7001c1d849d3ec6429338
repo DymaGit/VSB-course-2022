@@ -1,0 +1,23 @@
+package cz.vsb.signum;
+
+public class Signum {
+
+	public static int znamenko (int cislo) {
+		
+		return 5+5;
+	}
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//znamenko(10);
+		
+		System.out.println(znamenko(3));
+		
+	}
+
+	
+	
+	
+}

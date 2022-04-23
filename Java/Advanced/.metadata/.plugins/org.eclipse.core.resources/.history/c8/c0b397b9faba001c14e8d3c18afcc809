@@ -1,0 +1,22 @@
+
+import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.PathVariable;
+
+import ch.qos.logback.core.joran.spi.ElementSelector;
+import cz.vsb.austra.City;
+import cz.vsb.austra.connector.WeatherStackConnector;
+import cz.vsb.austra.dto.WeatherDto;
+
+
+public class WeatherService {
+
+	public WeatherDto getWeatherForCity(City cityEnum) {
+
+		WeatherDto wDto = new WeatherDto();
+		WeatherStackConnector connector = new WeatherStackConnector();
+		String location = connector.getWeatherForCity(cityEnum);
+		wDto.setLocation(location);
+		return wDto;
+	}
+
+}

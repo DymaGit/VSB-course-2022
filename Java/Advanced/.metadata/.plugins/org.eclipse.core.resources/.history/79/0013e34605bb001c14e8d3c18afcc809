@@ -1,0 +1,22 @@
+package cz.vsb.austra.service;
+
+import org.springframework.stereotype.Service;
+
+import cz.vsb.austra.City;
+import cz.vsb.austra.connector.WeatherStackConnector;
+import cz.vsb.austra.dto.WeatherDto;
+
+
+@Service
+public class WeatherService {
+
+	public WeatherDto getWeatherForCity(City cityEnum) {
+
+		WeatherDto wDto = new WeatherDto();
+		WeatherStackConnector connector = new WeatherStackConnector();
+		String location = connector.getWeatherForCity(cityEnum);
+		wDto.setLocation(location);
+		return wDto;
+	}
+
+}

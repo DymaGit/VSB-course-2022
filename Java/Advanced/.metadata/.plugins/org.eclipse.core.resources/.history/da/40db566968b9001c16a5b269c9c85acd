@@ -1,0 +1,21 @@
+package cz.vsb.austra.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class WeatherController {
+
+	// /weather
+	
+	// /weather/city
+	
+	
+	@RequestMapping("/weather")
+	String weather() {
+		return "všechny města";
+	}
+	
+	@RequestMapping("/weather/city")
+	String weatherCity() {
+		return "jedno město";
+	}
+}
